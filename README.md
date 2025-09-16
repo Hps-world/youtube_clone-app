@@ -4,6 +4,11 @@ A full-featured **YouTube Clone** built with the **MERN stack (MongoDB, Express,
 It includes **authentication, video management, comments, likes/dislikes, subscriptions, and responsive UI** styled with TailwindCSS.
 
 ---
+#prepare .env files
+PORT=5000
+MONGO_URI=mongodb://........
+JWT_SECRET=YOUR_SECRET_KEY
+JWT_EXPIRES_IN=7d
 
 ## 🚀 Features
 
